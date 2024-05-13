@@ -1,0 +1,482 @@
+{
+  "id": "78ef4bf8-879d-49de-8c08-39480a112c68",
+  "expires": {
+    "date": "2024-05-10 23:59:59.000000",
+    "timezone_type": 2,
+    "timezone": "Z"
+  },
+  "routes": [
+    {
+      "id": "19844ef0-dcca-4bf2-be36-0735b5e1ce5e",
+      "from": {
+        "id": "64fc2f63-ce55-4ba4-9497-a27ad8124842",
+        "name": "Pärnu"
+      },
+      "to": {
+        "id": "d6af8604-22ff-44f7-95c6-e3b86c46477a",
+        "name": "Kärdla"
+      },
+      "distance": 340,
+      "schedule": [
+        {
+          "id": "4bb8ac92-494f-48ca-8b5e-59224781b530",
+          "price": 20.4,
+          "start": {
+            "date": "2024-05-10 20:35:39.534753",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-10 23:38:39.534753",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "0558743b-b097-4379-83a3-dbc9bbab9027",
+            "state": "Lax Express"
+          }
+        },
+        {
+          "id": "e595eb23-58a5-483b-896b-89b92f69faff",
+          "price": 20.4,
+          "start": {
+            "date": "2024-05-10 20:19:39.534769",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-10 22:33:39.534769",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "0558743b-b097-4379-83a3-dbc9bbab9027",
+            "state": "Lax Express"
+          }
+        },
+        {
+          "id": "aa0b411a-c2f2-4213-9d3e-5207906cb763",
+          "price": 20.4,
+          "start": {
+            "date": "2024-05-10 23:09:39.534775",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-11 01:29:39.534775",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "a4e4cf86-9f98-4c23-81ed-39b1e406b8a3",
+            "state": "Tiiu Reisid"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1d3e0d7f-1771-48e7-a830-ec552b220303",
+      "from": {
+        "id": "ba135fbd-e0ff-4607-9894-4989b5b4c671",
+        "name": "Viljandi"
+      },
+      "to": {
+        "id": "9bb8795f-07bc-4c17-8c85-11b1df64bc06",
+        "name": "Tallinn"
+      },
+      "distance": 160,
+      "schedule": [
+        {
+          "id": "00f47183-530e-4b0a-b56b-e3708c52a624",
+          "price": 9.6,
+          "start": {
+            "date": "2024-05-10 21:00:39.534790",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-10 22:23:39.534790",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "0558743b-b097-4379-83a3-dbc9bbab9027",
+            "state": "Lax Express"
+          }
+        },
+        {
+          "id": "bf749de2-c8d8-41ad-8d6c-8e6ffd1473fb",
+          "price": 9.6,
+          "start": {
+            "date": "2024-05-10 21:52:39.534795",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-10 23:44:39.534795",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "a4e4cf86-9f98-4c23-81ed-39b1e406b8a3",
+            "state": "Tiiu Reisid"
+          }
+        },
+        {
+          "id": "96eeb40c-6c74-49c1-abf6-3eebb3142e2e",
+          "price": 10.24,
+          "start": {
+            "date": "2024-05-10 21:34:39.534800",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-10 23:59:39.534800",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "bb1afbf9-912d-457e-9edd-3462d86f53e6",
+            "state": "NoBus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3bd4b7c8-9e29-4047-a54c-b5c64defcb78",
+      "from": {
+        "id": "8020c4ec-07cd-4cc5-8bda-b7ef1bdb8215",
+        "name": "Pärnu"
+      },
+      "to": {
+        "id": "f04ae9f9-ca25-4b14-b573-146c369d7633",
+        "name": "Viljandi"
+      },
+      "distance": 170,
+      "schedule": [
+        {
+          "id": "2c3e8c92-045f-475b-9261-7be20e8c8860",
+          "price": 10.88,
+          "start": {
+            "date": "2024-05-10 21:27:39.534819",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-10 23:55:39.534819",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "bb1afbf9-912d-457e-9edd-3462d86f53e6",
+            "state": "NoBus"
+          }
+        },
+        {
+          "id": "d0a3ea70-6a2c-43d2-9fb2-bf26d8f2ef7e",
+          "price": 10.2,
+          "start": {
+            "date": "2024-05-10 22:32:39.534824",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-11 00:45:39.534824",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "0558743b-b097-4379-83a3-dbc9bbab9027",
+            "state": "Lax Express"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ca463e0f-1bf3-4a1f-aac5-7ba8fc73f158",
+      "from": {
+        "id": "04a74388-c67c-4c93-8e09-8374dc2d1fe3",
+        "name": "Tallinn"
+      },
+      "to": {
+        "id": "75d55f6d-56d2-4193-9291-5836591fb291",
+        "name": "Rakvere"
+      },
+      "distance": 100,
+      "schedule": [
+        {
+          "id": "a71cb987-08e2-43d1-a7b6-b40c1a0c86fb",
+          "price": 6,
+          "start": {
+            "date": "2024-05-10 20:35:39.534836",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-10 23:08:39.534836",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "a4e4cf86-9f98-4c23-81ed-39b1e406b8a3",
+            "state": "Tiiu Reisid"
+          }
+        },
+        {
+          "id": "96c8d427-220c-4ce9-bf04-3d629936b45f",
+          "price": 6,
+          "start": {
+            "date": "2024-05-10 23:00:39.534841",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-11 02:52:39.534841",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "0558743b-b097-4379-83a3-dbc9bbab9027",
+            "state": "Lax Express"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cd84e91a-b887-4581-b07e-dbdcf0985e8f",
+      "from": {
+        "id": "d328deb4-2212-4e67-8178-5b834a1fb415",
+        "name": "Kärdla"
+      },
+      "to": {
+        "id": "7159f959-baca-495f-af4e-d88d7d92b6d5",
+        "name": "Pärnu"
+      },
+      "distance": 340,
+      "schedule": [
+        {
+          "id": "69e1fda9-10f1-40bf-836f-cefe9921a459",
+          "price": 21.76,
+          "start": {
+            "date": "2024-05-10 21:48:39.534853",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-10 23:51:39.534853",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "bb1afbf9-912d-457e-9edd-3462d86f53e6",
+            "state": "NoBus"
+          }
+        },
+        {
+          "id": "b99ce10e-d6cd-4fc0-af8a-48fc6e4b0707",
+          "price": 20.4,
+          "start": {
+            "date": "2024-05-10 22:57:39.534858",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-11 02:45:39.534858",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "a4e4cf86-9f98-4c23-81ed-39b1e406b8a3",
+            "state": "Tiiu Reisid"
+          }
+        },
+        {
+          "id": "dd60e0fe-8e62-4df5-bee4-af8c7d768453",
+          "price": 21.76,
+          "start": {
+            "date": "2024-05-10 20:56:39.534863",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-10 22:01:39.534863",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "bb1afbf9-912d-457e-9edd-3462d86f53e6",
+            "state": "NoBus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0d4885e3-0ef0-4c13-aae4-c479e3160c5f",
+      "from": {
+        "id": "8b45b7e6-7044-49c1-8dc0-9eabaa610205",
+        "name": "Kärdla"
+      },
+      "to": {
+        "id": "26ff5362-fc89-4dcb-9f0e-ec5929955bb3",
+        "name": "Viljandi"
+      },
+      "distance": 370,
+      "schedule": [
+        {
+          "id": "dd9bfc87-1ff7-4e13-a159-cc64f42bacce",
+          "price": 23.68,
+          "start": {
+            "date": "2024-05-10 20:31:39.534874",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-10 22:54:39.534874",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "bb1afbf9-912d-457e-9edd-3462d86f53e6",
+            "state": "NoBus"
+          }
+        },
+        {
+          "id": "d2133c99-ec48-4447-9521-e329ced566de",
+          "price": 23.68,
+          "start": {
+            "date": "2024-05-10 22:30:39.534879",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-11 02:15:39.534879",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "bb1afbf9-912d-457e-9edd-3462d86f53e6",
+            "state": "NoBus"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fe2c5201-7dcb-490c-9f24-ab4b8385b730",
+      "from": {
+        "id": "3292d348-4c44-4813-b8c2-5d3e2b933c35",
+        "name": "Tartu"
+      },
+      "to": {
+        "id": "4aadf273-32d5-4ae3-90b5-7022d03b906e",
+        "name": "Viljandi"
+      },
+      "distance": 60,
+      "schedule": [
+        {
+          "id": "1cd13ffb-16c8-47ec-8439-3ba3e1b4336e",
+          "price": 3.84,
+          "start": {
+            "date": "2024-05-10 22:37:39.534890",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-11 01:59:39.534890",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "bb1afbf9-912d-457e-9edd-3462d86f53e6",
+            "state": "NoBus"
+          }
+        },
+        {
+          "id": "ffee5a8b-72ed-4937-b9e4-0ac60baa5844",
+          "price": 3.84,
+          "start": {
+            "date": "2024-05-10 22:50:39.534895",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-11 00:03:39.534895",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "bb1afbf9-912d-457e-9edd-3462d86f53e6",
+            "state": "NoBus"
+          }
+        },
+        {
+          "id": "0a7cb994-6b94-40c3-82d0-773bfd6a000f",
+          "price": 3.6,
+          "start": {
+            "date": "2024-05-10 21:56:39.534900",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-10 23:18:39.534900",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "a4e4cf86-9f98-4c23-81ed-39b1e406b8a3",
+            "state": "Tiiu Reisid"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cb62bf11-4b17-4283-9b09-0df815ba9592",
+      "from": {
+        "id": "49ffca57-e52e-47c0-b94e-b421721d89a3",
+        "name": "Kuressaare"
+      },
+      "to": {
+        "id": "6d9f5dc1-88b3-46e2-8a3b-222c56cf9077",
+        "name": "Pärnu"
+      },
+      "distance": 350,
+      "schedule": [
+        {
+          "id": "4a6e16dc-79ca-47d5-bd09-39da2ec46fac",
+          "price": 21,
+          "start": {
+            "date": "2024-05-10 22:47:39.534912",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-11 00:34:39.534912",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "a4e4cf86-9f98-4c23-81ed-39b1e406b8a3",
+            "state": "Tiiu Reisid"
+          }
+        },
+        {
+          "id": "3b879456-d321-42ee-984d-58a3702e898d",
+          "price": 21,
+          "start": {
+            "date": "2024-05-10 21:07:39.534917",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "end": {
+            "date": "2024-05-10 22:42:39.534917",
+            "timezone_type": 3,
+            "timezone": "Europe/Tallinn"
+          },
+          "company": {
+            "id": "0558743b-b097-4379-83a3-dbc9bbab9027",
+            "state": "Lax Express"
+          }
+        }
+      ]
+    }
+  ]
+}
